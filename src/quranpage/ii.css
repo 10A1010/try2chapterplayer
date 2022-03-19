@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+.home-body {
+  height: 70vh;
+}
+.bg-red {
+  background-color: #fff;
+  color: #fff;
+}
+audio {
+  width: 100%;
+  outline: none;
+}
+
+.scroll {
+  height: 100%;
+  overflow: auto;
+}
+.curser {
+  cursor: pointer;
+}
